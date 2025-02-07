@@ -13,7 +13,7 @@ Installation
 Usage
 
     In Visual Studio 2022, go to File → New → Project.
-    Search for or select the “OpenGL VS Template” (or the name you see in the list).
+    Search for or select the “Blank OpenGL Window” (or the name you see in the list).
     Specify your project name and location, then Create.
 
 You’ll now have a starter project set up with:
